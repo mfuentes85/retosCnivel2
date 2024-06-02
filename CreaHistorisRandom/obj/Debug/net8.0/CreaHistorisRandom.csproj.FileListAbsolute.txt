@@ -1,0 +1,15 @@
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\bin\Debug\net8.0\CreaHistorisRandom.exe
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\bin\Debug\net8.0\CreaHistorisRandom.deps.json
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\bin\Debug\net8.0\CreaHistorisRandom.runtimeconfig.json
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\bin\Debug\net8.0\CreaHistorisRandom.dll
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\bin\Debug\net8.0\CreaHistorisRandom.pdb
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\CreaHistorisRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\CreaHistorisRandom.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\CreaHistorisRandom.AssemblyInfo.cs
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\CreaHistorisRandom.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\CreaHistorisRandom.sourcelink.json
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\CreaHistorisRandom.dll
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\refint\CreaHistorisRandom.dll
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\CreaHistorisRandom.pdb
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\CreaHistorisRandom.genruntimeconfig.cache
+C:\NetAcademy\c#\Reto2c#\CreaHistorisRandom\obj\Debug\net8.0\ref\CreaHistorisRandom.dll
