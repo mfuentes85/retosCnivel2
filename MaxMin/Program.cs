@@ -29,10 +29,10 @@ internal class Program
 
 
         Console.WriteLine("Este programa evalúa cual es el numero mayor  y el número menor del arreglo");
-        Console.WriteLine(" \nLos valores actuales del arreglo son:");
+        Console.WriteLine(" \nLos valores actuales del arreglo son:\n");
         foreach (int numero in numeros)
         {
-            Console.WriteLine(numero);
+            Console.Write(numero +"    ");
         }
 
             Console.WriteLine("\n\nEl numero mayor del arreglo es:" + mayor + "\n\nEl numero menor del arreglo es:" + menor);
