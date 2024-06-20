@@ -1,0 +1,15 @@
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.exe
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.deps.json
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.runtimeconfig.json
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.dll
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.pdb
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.AssemblyInfo.cs
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.dll
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\refint\ListaEstudiantes.dll
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.pdb
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.genruntimeconfig.cache
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ref\ListaEstudiantes.dll
+C:\NetAcademy\c#\Reto2c#\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.sourcelink.json
